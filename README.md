@@ -11,6 +11,6 @@ python music.py
 
 REQUIRED:
 
-libav ---- brew install libav
+libav ---- "brew install libav"  AND 
 BeautifulSoup 
 
